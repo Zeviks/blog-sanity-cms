@@ -1,0 +1,15 @@
+[Technology List]=======================================================================================
+Next.js [13], Sanity CMS v3 w/ Preview Mode, TypeScript(Optional), Tailwind CSS, AuthO     
+========================================================================================================
+
+--Tailwind CSS 
+npx create-next-app -e with-tailwindcss {Project Name} 
+Docs: https://tailwindcss.com/docs/guides/nextjs
+
+ - Next v13
+   Docs:https://beta.nextjs.org/docs/installation
+
+--Sanity CLI
+npm create sanity@latest -- --coupon sonny2022 
+Docs: https://www.sanity.io/docs/overview-introduction
+
